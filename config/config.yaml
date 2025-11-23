@@ -100,4 +100,4 @@ platforms:
   - id: "zhihu"
     name: "知乎"
   - id: "wallstreetcn-hot"
-  name: "华尔街见闻"
+    name: "华尔街见闻"
